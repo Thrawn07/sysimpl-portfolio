@@ -32,13 +32,23 @@ Dados los principios y la descripción antes mencionados, realizar una guía de 
 
 ## Desarrollo.
 
+### Deducción.
+
+- Usuarios: 4, 2 en simultáneo. (Alcance)
+
+- Rango de presupuesto medio aproximadamente al ser ciudad. (Costo)
+
+- Necesidad de gestionar consultas médicas y ventas de farmaceúticos.
+
+
+### Preguntas para entrevista.
+
 1. ¿Cuál es el presupuesto que planea invertir?
 
+2. ¿Planea expandir su negocio en un medio plazo?
 
-2. ¿Cuenta con equipo de cómputo y espacio?
+3. ¿Considera algún tipo de capacitación para los empleados?
 
+4. ¿Requiere seguridad en el sistema? (Respaldos, autentificación, auditoría, monitoreo)
 
-3. Mencione 5 funciones que describan lo que necesita en el sistema.
-
-
-4. ¿Considera algún tipo de capacitación para los empleados?
+5. ¿Cuál es el intervalo de tiempo mínimo y máximo en el que espera que este funcionando el sistema?
